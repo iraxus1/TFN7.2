@@ -1,0 +1,27 @@
+[
+{
+"name": "Chrome",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1200px-Google_Chrome_icon_%28September_2014%29.svg.png",
+"description": "Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android."
+},
+{
+"name": "Firefox",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/967px-Mozilla_Firefox_logo_2013.svg.png",
+"description": "Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox is available for Windows, macOS, Linux, and BSD operating systems."
+},
+{
+"name": "Opera",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+"description": "Opera is a web browser developed by Opera Software. It is available for Windows, macOS, and Linux operating systems, and supports Android and iOS mobile devices."
+},
+{
+"name": "Safari",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/1200px-Safari_browser_logo.svg.png",
+"description": "Safari is a web browser developed by Apple, based on the WebKit engine. First released in 2003 with Mac OS X Panther, a mobile version has been included in iOS devices since the iPhone's introduction in 2007."
+},
+{
+"name": "Edge",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/480px-Microsoft_Edge_logo_%282019%29.svg.png",
+"description": "Microsoft Edge is a web browser developed by Microsoft. It was first released for Windows 10 and Xbox One in July 2015, and for macOS in November 2019."
+}
+]
